@@ -1,0 +1,17 @@
+{
+  "name": "ScrumMasterSkill",
+  "version": "1.0.0",
+  "description": "Lambda function for Alexa",
+  "readme": "Lambda function for Alexa",
+  "repository": "my repository",
+  "main": "index.js",
+  "author": "baxiz",
+  "dependencies": {
+    "alexa-sdk": "^1.0.9",
+    "cookie-parser": "^1.4.3",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.2",
+    "express-session": "^1.15.6",
+    "request": "^2.8.0"
+  }
+}
